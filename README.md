@@ -1,1 +1,1 @@
-# etection-of-alzeihmer-and-parkinson-disease
+# Detection-of-alzeihmer-and-parkinson-disease
